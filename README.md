@@ -1,4 +1,6 @@
-### Keylogger Script Explanation and Disclaimer
+# Keylogger Script 
+
+***Explanation and Disclaimer***
 
 This Python script is a **basic keylogger** that captures keyboard input and logs it into a file named `simple_key_log.txt`. Below is an explanation of how it works:
 
